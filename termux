@@ -1,0 +1,6 @@
+
+nano compile.sh
+clang++ file.cpp -o output
+
+chmod +x compile.sh
+./compile.sh
